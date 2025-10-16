@@ -31,26 +31,30 @@
 // console.log(sumto(7));
 
 
-// function couter() {
-//     let cnt = 0
-//     return () => {
-//         cnt++
-//         return cnt
-//     }
-// }
-// let cont = couter()
-// console.log(cont());
-// console.log(cont());
-// console.log(cont());
 
 
 
 // function creat(a) {
-//     return (b) =>
-//     {
-//         let sum = a+b
-//         return sum
-//     }
-// }
-// console.log(creat(5)(3));
+    //     return (b) =>
+        //     {
+    //         let sum = a+b
+    //         return sum
+    //     }
+    // }
+    // console.log(creat(5)(3));
+    
 
+
+
+
+    // function couter() {
+    //     let cnt = 0
+    //     return () => {
+    //         cnt++
+    //         return cnt
+    //     }
+    // }
+    // let cont = couter()
+    // console.log(cont());
+    // console.log(cont());
+    // console.log(cont());
