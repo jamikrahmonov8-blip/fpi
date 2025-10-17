@@ -145,3 +145,41 @@ toUpperCase()
 ```
 
 ---
+# Methond 
+
+### Вне него входять команди как 
+
+- Math.floor - удаляет десятичние 
+```cpp
+ let a = 43.3
+    console.log(Math.floor(a));  //43
+```
+- Math.ceil - прибавляет число если десятични выше одного
+```cpp
+ let a = 43.3
+    console.log(Math.ceil(a));  //44
+```
+- Math.round - увеличивает число на до целного если десятичние выше 4
+```cpp
+ let a = 43.3
+    console.log(Math.round(a));  //44
+```
+- MAth.abs - делает из минусвого числа делает плюсовим 
+```cpp
+ let a = - 43
+    console.log(Math.abs(a));  //43
+```
+- Math (min) и (max) - Находять минималный и максисалный
+```cpp
+ let a = 1,2,3,4,5
+    console.log(Math.min(a));  //1
+
+ let a = 1,2,3,4,5
+    console.log(Math.max(a));  //5
+```
+- Math.pow - умножает число столько раз сколко дадим число
+```cpp
+ let a = 2
+    console.log(Math.pow(a,3));  //8
+```
+    

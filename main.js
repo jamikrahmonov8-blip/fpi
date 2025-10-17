@@ -58,3 +58,9 @@
     // console.log(cont());
     // console.log(cont());
     // console.log(cont());
+
+
+
+    let a = 43.3
+    console.log(Math.floor(a));  //43
+      
